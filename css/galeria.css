@@ -1,0 +1,11 @@
+.promos{
+	width: 100%;
+	height: auto;
+}
+
+
+@media (min-width: 992px) {
+	.promos{
+		width: 300px;
+	}
+}
